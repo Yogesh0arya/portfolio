@@ -13,7 +13,7 @@ class Footer extends Component {
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-sm-7">
-                                <p className="mb-0 f_400">© {today.getFullYear()} yogesh-arya.webdeveloper.com All rights
+                                <p className="mb-0 f_400">© {today.getFullYear()} www.linkedin.com/in/yogesh08arya All rights
                                     reserved. </p>
                             </div>
                             <div className="col-lg-6 col-sm-5 text-right">
