@@ -1,7 +1,6 @@
 {
-  "name": "@kutaloweb/portfolio",
+  "name": "Portfolio-with-React-main",
   "version": "0.1.0",
-  "author": "Alexey Kutalo <kutalo84@gmail.com>",
   "dependencies": {
     "animejs": "^3.1.0",
     "bootstrap": "^4.3.1",
