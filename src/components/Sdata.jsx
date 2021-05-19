@@ -27,6 +27,13 @@ const Sdata=[
         link: "https://slack-6ccb1.web.app/",
         des:"Build with React.js, Redux, Firebse, Styled-components, Firebase-hooks, Material UI. User can Sign up, Sign in. Completely functional and responsive."
     },
+    
+    {
+        imgsrc:require('../image/new/e-com.jpg') ,
+        title:"Online Food App" ,
+        link: "https://e-commerce-xi-green.vercel.app/",
+        des:"React and material UI with login/logout functionality, fully responsive app for ecommerce UI"
+    },
 
     {
         imgsrc:require('../image/new/food.jpg') ,
