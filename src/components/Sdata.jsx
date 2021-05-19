@@ -30,7 +30,7 @@ const Sdata=[
     
     {
         imgsrc:require('../image/new/e-com.jpg') ,
-        title:"Online Food App" ,
+        title:"E-comerce App" ,
         link: "https://e-commerce-xi-green.vercel.app/",
         des:"React and material UI with login/logout functionality, fully responsive app for ecommerce UI"
     },
