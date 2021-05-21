@@ -29,6 +29,13 @@ const Sdata=[
     },
     
     {
+        imgsrc:require('../image/new/hulu.jpg') ,
+        title:"Hulu" ,
+        link: "https://hulu-clone-seven-gray.vercel.app//",
+        des:"Build with Next.js and, Tailwind CSS. Completely functional and responsive."
+    },
+    
+    {
         imgsrc:require('../image/new/e-com.jpg') ,
         title:"E-comerce App" ,
         link: "https://e-commerce-xi-green.vercel.app/",
