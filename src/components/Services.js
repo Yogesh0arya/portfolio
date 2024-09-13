@@ -17,7 +17,7 @@ class Services extends Component {
                                     <img className="work_img"
                                          src={require(`../image/service-1.png`)} alt=""/>
                                     <h2 className="t_color">Technical Skills</h2>
-                                    <p>PROFICIENT WITH: Reactjs, JavaScript, HTML, CSS, Bootstrap, Git, Tailwind Css, Blender</p>
+                                    <p>PROFICIENT WITH: Reactjs, Nextjs, flask, Vuejs, DSA, Bootstrap, Git, Tailwind Css, Blender, Android Studio, Maya, Unity, Adobe AfterEffect</p>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-sm-6">
@@ -25,8 +25,8 @@ class Services extends Component {
                                      data-wow-delay="0.1s">
                                     <img className="work_img"
                                          src={require(`../image/service-2.png`)} alt=""/>
-                                    <h2 className="t_color">Familiar Skills</h2>
-                                    <p> Python, C, C++, SQL, PHP, Flutter, Android Studio, Maya, Unity, Adobe AfterEffect</p>
+                                    <h2 className="t_color">Programming Skills</h2>
+                                    <p> JavaScript, HTML, CSS, Python, C, C++, SQL</p>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-sm-6">
@@ -35,7 +35,7 @@ class Services extends Component {
                                     <img className="work_img"
                                          src={require(`../image/service-3.png`)} alt=""/>
                                     <h2 className="t_color">Certificates</h2>
-                                    <p>Gate 2021 Qualified<br/> <br/>React Nanodegree (Udacity)</p>
+                                    <p>Gate 2024 Qualified<br/> <br/>React Nanodegree (Udacity)</p>
                                 </div>
                             </div>
                             
