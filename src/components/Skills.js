@@ -71,7 +71,7 @@ class Skills extends Component {
                         <div className="seo_fact_item seo_fact_item_last wow fadeIn" data-wow-delay="0.1s">
                             <div className="text">
                                 <div className="counter four" data-countup>100</div>
-                                <p className="counter_desc">React Native</p>
+                                <p className="counter_desc">Javascript</p>
                             </div>
                         </div>
                     </div>
