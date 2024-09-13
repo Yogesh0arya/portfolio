@@ -7,11 +7,13 @@ import {useState, useEffect, useRef} from "react";
 const MagicOcean = [
     "React, Nextjs Web Developer",
     "Front End Web Developer",
-    "React Native App Developer",
+    // "React Native App Developer",
     "Full Stack Web Developer",
     "Rising-Talent Freelancer on Upwork",
-    "React nanodegree Certified Developer",
-    "Backend Developer with Firebase frameworks",
+    // "React nanodegree Certified Developer",
+    // "Backend Developer with Firebase frameworks",
+    "Competitive Programmer",
+    "2024 Gate Qualified",
 ];
 let index = 0;
 
@@ -49,7 +51,7 @@ function BannerHeader() {
                             <Reveal effect="fadeInUp" duration={2200}>
                                 <h4 className="wow fadeInUp anoimated cursor">{name} &zwnj;</h4>
                             </Reveal>
-                            <div className="banner_para"><p>I'm currently a computer science and enginnering btech undergraduate at MANIT Bhopal.</p></div>
+                            <div className="banner_para"><p>I recently completed Data Science from IIT Madras and also done computer science and enginnering btech undergraduate at MANIT Bhopal.</p></div>
                         </div>
                     </div>
                 )}
