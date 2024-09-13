@@ -57,7 +57,7 @@ class Testimonials extends Component {
                                             </div>
                                             <p>"Indian institutes of technology, IIT Madras"</p>
                                             <h5>BSc Data Science</h5>
-                                            <h6>2021 |Madras, India</h6>
+                                            <h6>2021-24 |Madras, India</h6>
                                         </div>
 
                                         <div className="item">
