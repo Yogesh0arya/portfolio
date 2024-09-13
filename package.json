@@ -1,6 +1,9 @@
 {
   "name": "Portfolio-with-React-main",
   "version": "0.1.0",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "animejs": "^3.1.0",
     "bootstrap": "^4.3.1",
