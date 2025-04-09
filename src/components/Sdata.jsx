@@ -1,6 +1,13 @@
 
 const Sdata=[
     {
+        imgsrc:require('../image/new/blog.png') ,
+        title:"Blog Website" ,
+        link: "https://blog-app-cppv.onrender.com ",
+        des:"MERN full stack application using React.js, Express, MongoDB, Nodejs. imagekit.io for 
+optimized image, Clerk for user management."
+    },
+    {
         imgsrc:require('../image/new/google.jpg') ,
         title:"Google" ,
         link: "https://google-git-main-yogesh0arya.vercel.app/",
