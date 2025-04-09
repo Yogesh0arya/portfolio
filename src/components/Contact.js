@@ -145,7 +145,7 @@ class Contact extends Component {
                                     <i className="flaticon-pin"></i>
                                     <div className="media-body">
                                         <h6>Get Me Here</h6>
-                                        <p>Sendhwa, MP</p>
+                                        <p>Indore, MP</p>
                                     </div>
                                 </div>
                             </div>
