@@ -40,6 +40,12 @@ const Sdata=[
         link: "https://hulu-clone-seven-gray.vercel.app//",
         des:"Build with Next.js and, Tailwind CSS. Completely functional and responsive."
     },
+    {
+        imgsrc:require('../image/new/Cyberpunk Blog.png') ,
+        title:"Cyberpunk Blogs" ,
+        link: "https://cyberpunk-nine.vercel.app/",
+        des:"Build with Next.js and, Tailwind CSS, firebase based on cyberpunk theme. Completely functional and responsive."
+    },
     
     {
         imgsrc:require('../image/new/e-com.jpg') ,
