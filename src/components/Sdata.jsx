@@ -88,7 +88,7 @@ const Sdata=[
         des:"Build with Next.js and, Tailwind CSS. Completely functional and responsive."
     },
     {
-        imgsrc:require('../image/new/Instagram.png') ,
+        imgsrc:require('../image/new/Instagram.jpg') ,
         title:"Instagram" ,
         link: "https://instagram-eosin-psi.vercel.app/",
         des:"Build with React.js, Next.js and Tailwind CSS. Server side rendering which uses realtime firebase database to show posts, comments, likes. Completely functional and responsive."
