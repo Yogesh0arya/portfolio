@@ -62,6 +62,43 @@ const Sdata=[
         link: "https://whatsapp-vert.vercel.app/",
         des:"Build with React.js, Redux, and styled-components. User can SignIn with Google account, 1-1 messanging, and live status."
     },
+
+    {
+        imgsrc:require('../image/new/just crop.png') ,
+        title:"Just Crop" ,
+        link: "https://just-crop-app.vercel.app/",
+        des:"React and material UI, fully responsive app for image cropping"
+    },
+    {
+        imgsrc:require('../image/new/youth india.png') ,
+        title:"Youth India Foundation" ,
+        link: "https://youth-india-foundation-app.vercel.app/",
+        des:"Build with Next.js and, Tailwind CSS. Completely functional and responsive."
+    },
+    {
+        imgsrc:require('../image/new/covin.jpg') ,
+        title:"Covin" ,
+        link: "https://convin-ten.vercel.app/",
+        des:"Build with Next.js and, Tailwind CSS. Completely functional and responsive."
+    },
+    {
+        imgsrc:require('../image/new/hero section.png') ,
+        title:"Hero Section" ,
+        link: "https://hero-section-two.vercel.app/",
+        des:"Build with Next.js and, Tailwind CSS. Completely functional and responsive."
+    },
+    {
+        imgsrc:require('../image/new/Instagram.png') ,
+        title:"Instagram" ,
+        link: "https://instagram-eosin-psi.vercel.app/",
+        des:"Build with React.js, Next.js and Tailwind CSS. Server side rendering which uses realtime firebase database to show posts, comments, likes. Completely functional and responsive."
+    },
+     {
+        imgsrc:require('../image/new/daily shopping.png') ,
+        title:"Daily Shopping" ,
+        link: "https://e-commerce-xi-green.vercel.app/",
+        des:"Built a fully responsive e-commerce web app using Next.js, Tailwind CSS, and Redux, featuring cart functionality and Stripe integration for payment processing. Improved page load speed by optimizing Redux state management, enhancing user experience for visitors."
+    },
     
     {
         imgsrc:require('../image/new/e-com.jpg') ,
@@ -69,6 +106,7 @@ const Sdata=[
         link: "https://e-commerce-xi-green.vercel.app/",
         des:"React and material UI with login/logout functionality, fully responsive app for ecommerce UI"
     },
+    
 
     {
         imgsrc:require('../image/new/food.jpg') ,
