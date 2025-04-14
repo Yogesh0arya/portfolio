@@ -6,6 +6,14 @@ const Sdata=[
         link: "https://blog-app-cppv.onrender.com ",
         des:"MERN full stack application using React.js, Express, MongoDB, Nodejs. imagekit.io for optimized image, Clerk for user management."
     },
+
+    {
+        imgsrc:require('../image/new/amazon.png') ,
+        title:"Amazon" ,
+        link: "https://amazon-swart.vercel.app/",
+        des:"Built a fully responsive e-commerce web app using Next.js, Tailwind CSS, and Redux, featuring cart functionality and Stripe integration for payment processing. Improved page load speed by optimizing Redux state management, enhancing user experience for visitors. "
+    },
+    
     {
         imgsrc:require('../image/new/google.jpg') ,
         title:"Google" ,
