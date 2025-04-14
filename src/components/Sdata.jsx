@@ -76,7 +76,7 @@ const Sdata=[
         des:"Build with Next.js and, Tailwind CSS. Completely functional and responsive."
     },
     {
-        imgsrc:require('../image/new/covin.jpg') ,
+        imgsrc:require('../image/new/covin.png') ,
         title:"Covin" ,
         link: "https://convin-ten.vercel.app/",
         des:"Build with Next.js and, Tailwind CSS. Completely functional and responsive."
