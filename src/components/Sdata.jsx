@@ -13,6 +13,41 @@ const Sdata=[
         link: "https://amazon-swart.vercel.app/",
         des:"Built a fully responsive e-commerce web app using Next.js, Tailwind CSS, and Redux, featuring cart functionality and Stripe integration for payment processing. Improved page load speed by optimizing Redux state management, enhancing user experience for visitors. "
     },
+
+     {
+        imgsrc:require('../image/new/slack.jpg') ,
+        title:"Slack" ,
+        link: "https://slack-6ccb1.web.app/",
+        des:"Build with React.js, Redux, Firebse, Styled-components, Firebase-hooks, Material UI. User can Sign up, Sign in. Completely functional and responsive."
+    },
+    
+    {
+        imgsrc:require('../image/new/hulu.jpg') ,
+        title:"Hulu" ,
+        link: "https://hulu-clone-seven-gray.vercel.app//",
+        des:"Build with Next.js and, Tailwind CSS. Completely functional and responsive."
+    },
+    
+    {
+        imgsrc:require('../image/new/Cyberpunk Blog.png') ,
+        title:"Cyberpunk Blogs" ,
+        link: "https://cyberpunk-nine.vercel.app/",
+        des:"Build with Next.js and, Tailwind CSS, firebase based on cyberpunk theme. Completely functional and responsive."
+    },
+
+    {
+        imgsrc:require('../image/new/netflix.jpg') ,
+        title:"Netflix" ,
+        link: "https://netflix-six-phi.vercel.app",
+        des:"Build with React.js, Redux, Firebase. User can SignIn, Complete responsive, Full stripe payment option."
+    },
+
+    {
+        imgsrc:require('../image/new/courses.png') ,
+        title:"Courses Website" ,
+        link: "https://sai-tecknova-two.vercel.app/",
+        des:"Build with React.js, Next.js and Tailwind CSS. Completely functional and responsive."
+    },
     
     {
         imgsrc:require('../image/new/google.jpg') ,
@@ -26,33 +61,6 @@ const Sdata=[
         title:"Whatsapp" ,
         link: "https://whatsapp-vert.vercel.app/",
         des:"Build with React.js, Redux, and styled-components. User can SignIn with Google account, 1-1 messanging, and live status."
-    },
-
-    {
-        imgsrc:require('../image/new/netflix.jpg') ,
-        title:"Netflix" ,
-        link: "https://netflix-six-phi.vercel.app",
-        des:"Build with React.js, Redux, Firebase. User can SignIn, Complete responsive, Full stripe payment option."
-    },
-
-    {
-        imgsrc:require('../image/new/slack.jpg') ,
-        title:"Slack" ,
-        link: "https://slack-6ccb1.web.app/",
-        des:"Build with React.js, Redux, Firebse, Styled-components, Firebase-hooks, Material UI. User can Sign up, Sign in. Completely functional and responsive."
-    },
-    
-    {
-        imgsrc:require('../image/new/hulu.jpg') ,
-        title:"Hulu" ,
-        link: "https://hulu-clone-seven-gray.vercel.app//",
-        des:"Build with Next.js and, Tailwind CSS. Completely functional and responsive."
-    },
-    {
-        imgsrc:require('../image/new/Cyberpunk Blog.png') ,
-        title:"Cyberpunk Blogs" ,
-        link: "https://cyberpunk-nine.vercel.app/",
-        des:"Build with Next.js and, Tailwind CSS, firebase based on cyberpunk theme. Completely functional and responsive."
     },
     
     {
