@@ -6,6 +6,12 @@ const Sdata=[
         link: "https://blog-app-cppv.onrender.com ",
         des:"MERN full stack application using React.js, Express, MongoDB, Nodejs. imagekit.io for optimized image, Clerk for user management."
     },
+    {
+        imgsrc:require('../image/new/personal finance.png') ,
+        title:"Personal Finance Website" ,
+        link: "https://personal-finance-git-main-yogesh0aryas-projects.vercel.app",
+        des:"MERN full stack application using Next.js, Express, MongoDB, Nodejs, shadcn, Recharts, Responsive design with error states. "
+    },
 
     {
         imgsrc:require('../image/new/amazon.png') ,
